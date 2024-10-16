@@ -1,4 +1,6 @@
 # Spotify_Data_Analysis_SQL_Project
+![spotify_logo](https://github.com/user-attachments/assets/635da383-79c4-4e27-bccf-36d4ea10f805)
+
 
 This project involves the exploration and analysis of a Spotify dataset using SQL. The dataset contains over 20,000 records of tracks, albums, and associated metadata, sourced from Kaggle. Key attributes include track features such as danceability, energy, and loudness, as well as engagement metrics like streams, likes, and comments.
 
